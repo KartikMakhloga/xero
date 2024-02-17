@@ -1,0 +1,6 @@
+
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/EpilogueRomanSemiBold.ttf"); font-family : "Epilogue"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/EpilogueRomanMedium.ttf"); font-family : "Epilogue"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/EpilogueRomanRegular.ttf"); font-family : "Epilogue"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/DMSansBold.ttf"); font-family : "DM Sans"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/DMSansRegular.ttf"); font-family : "DM Sans"; font-weight : 400;  }
